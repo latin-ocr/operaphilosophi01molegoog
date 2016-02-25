@@ -1,0 +1,40 @@
+QUADRATURA CIRCULI.
+
+PROPOSITIO 1.
+
+Cirmrlo dato quadratum invenire ecquale.
+
+Srr (in fig. 1) circulus datus Boon, cujus centrum
+A, divisus quadrifariam adiametris BD, ΟΕ. Cir·
+culo binc circumscribatur quadratum Foffl, quod
+tangit circulum in punctis B, C, D, E. Ducantur
+diagonales Gl, HF, secantes circulum in punctis
+K, L, M, N. Secctur semilatus CG bifariam in Ο,
+ducaturque AO secans circulum in P. Per punc·
+tum P ducatur recta oR parallelo GH, secans AG,
+{AH in Q et R, et AC in Y: compleaturque qua
+dratum QRST. Dico quadratum QRST aequale
+‘csse circulo BCDE dato.
+
+Quoniam enim recta CG secta est bifariam in Ο,
+et triangulorum ΑΘΕ, AYQ bases CG, ΥΩ sunt par·
+allelae, etiam basis ΥΩ secta est bifariam in P: et
+proinde triangula ΑΥΡ, APQ sunt aequalia.
+
+In arcu LC sumatur arcus LV aequalis arcui CP:
+ducaturque AV, secans YP in X.
+
+ς Jam APL ÷PQL÷CYP=AVL=ACP‚ quia APL
+÷PQL=AYR Nam ACV÷AVP=ACP=Avn
+
+Quare APL÷PQL÷CYP=ACV ÷AVP.
+
+ablatis igitur utrinque aequalibus APL, ACV,
+
+restant PQL÷CYP=AVR
+
+raon 1.
+»vu
+
+ 
+
